@@ -1,0 +1,12 @@
+main{
+    margin: auto;
+    width: 500px;
+    height:auto; 
+    background-color: white;
+    padding: 10px;
+    border: lightblue solid 2px;
+    border-radius: 5px 5px 0px 0px;
+}
+body{
+    background-color: rgba(29, 29, 117, 0.966);
+}
