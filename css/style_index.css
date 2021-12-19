@@ -5,7 +5,8 @@ main{
     background-color: white;
     padding: 10px;
     border: rgb(0, 0, 0) solid 1px;
-    border-radius: 5px 5px 0px 0px;
+    border-radius: 10px 10px 10px 10px;
+    font-family: sans-serif;
 }
 body{
     background-color: rgba(29, 29, 117, 0.966);
@@ -16,8 +17,17 @@ h1{
     background-color: rgb(48, 48, 204);
     margin: -10px -10px 5px -10px;
     color: white;
+    padding: 5px;
+    border-radius: 10px 10px 0px 0px ;
 }
 h2{
     font-family: sans-serif;
     font-size: 1.2em;
+}
+a{
+    text-decoration: none;
+    font-style: none;
+    display: block;
+    text-align: center;
+    font-size: 1.05em;
 }
