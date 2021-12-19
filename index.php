@@ -2,7 +2,7 @@
 <head>
     <meta charset='UTF-8'>
     <title>Gerenciamento de Escalas</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style_index.css">
 </head>
 <body>
 <?php
@@ -34,36 +34,42 @@ $escaladia = mysqli_fetch_assoc($diadados);
         </p>
     </div>
     <div>
+    <h2>Segunda</h2>
     <p>Inicio: <?php echo $escaladia['Horario_inicio']?>
     <br>
            Fim: <?php echo $escaladia['Horario_fim']?>
         </p>
     </div>
     <div>
+    <h2>Terça</h2>
     <p>Inicio: <?php echo $escaladia['Horario_inicio']?>
     <br>
            Fim: <?php echo $escaladia['Horario_fim']?>
         </p>
     </div>
     <div>
+    <h2>Quarta</h2>
     <p>Inicio: <?php echo $escaladia['Horario_inicio']?>
     <br>
            Fim: <?php echo $escaladia['Horario_fim']?>
         </p>
     </div>
     <div>
+    <h2>Quinta</h2>
     <p>Inicio: <?php echo $escaladia['Horario_inicio']?>
     <br>
            Fim: <?php echo $escaladia['Horario_fim']?>
         </p>
     </div>
     <div>
+    <h2>Sexta</h2>
     <p>Inicio: <?php echo $escaladia['Horario_inicio']?>
     <br>
            Fim: <?php echo $escaladia['Horario_fim']?>
         </p>
     </div>
     <div>
+    <h2>Sábado</h2>
     <p>Inicio: <?php echo $escaladia['Horario_inicio']?>
     <br>
            Fim: <?php echo $escaladia['Horario_fim']?>
