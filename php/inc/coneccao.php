@@ -1,5 +1,5 @@
 <?php
-    $conn = mysqli_connect("localhost", "root", "Senha123", "sistemagerenciamentoescalas");
+    $conn = mysqli_connect("localhost", "root", "Senha123", "sistemagerenciamentoescalas2");
 
     if (mysqli_connect_errno())
     {
