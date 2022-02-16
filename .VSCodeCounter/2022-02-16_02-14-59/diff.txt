@@ -1,0 +1,40 @@
+Date : 2022-02-16 02:14:59
+Directory : c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF
+Total : 12 files,  255 codes, 0 comments, 29 blanks, all 284 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| PHP      |          8 |        215 |          0 |         14 |        229 |
+| CSS      |          4 |         40 |          0 |         15 |         55 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                     | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                        |         12 |        255 |          0 |         29 |        284 |
+| css                                                                                      |          4 |         40 |          0 |         15 |         55 |
+| php                                                                                      |          3 |        130 |          0 |          5 |        135 |
+| php\controller                                                                           |          3 |        130 |          0 |          5 |        135 |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                 | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\Edicao_SelecionarUsuario.php      | PHP      |          8 |          0 |         -1 |          7 |
+| c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\Edicao_Usuario.php                | PHP      |         44 |          0 |          2 |         46 |
+| c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\Equipe.php                        | PHP      |         13 |          0 |          1 |         14 |
+| c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\Escala.php                        | PHP      |         18 |          0 |          2 |         20 |
+| c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\css\style_escala.css              | CSS      |        -33 |          0 |          1 |        -32 |
+| c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\css\style_index.css               | CSS      |         14 |          0 |          0 |         14 |
+| c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\css\style_login.css               | CSS      |         15 |          0 |          6 |         21 |
+| c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\css\style_sidebar.css             | CSS      |         44 |          0 |          8 |         52 |
+| c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\index.php                         | PHP      |          2 |          0 |          5 |          7 |
+| c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\php\controller\Excluir_Equipe.php | PHP      |         33 |          0 |          2 |         35 |
+| c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\php\controller\UpdateEquipe.php   | PHP      |         16 |          0 |          0 |         16 |
+| c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\php\controller\UpdateTurno.php    | PHP      |         81 |          0 |          3 |         84 |
+| Total                                                                                    |          |        255 |          0 |         29 |        284 |
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

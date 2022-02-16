@@ -1,0 +1,14 @@
+"filename", "language", "PHP", "CSS", "comment", "blank", "total"
+"c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\Edicao_SelecionarUsuario.php", "PHP", 8, 0, 0, -1, 7
+"c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\Edicao_Usuario.php", "PHP", 44, 0, 0, 2, 46
+"c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\Equipe.php", "PHP", 13, 0, 0, 1, 14
+"c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\Escala.php", "PHP", 18, 0, 0, 2, 20
+"c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\css\style_escala.css", "CSS", 0, -33, 0, 1, -32
+"c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\css\style_index.css", "CSS", 0, 14, 0, 0, 14
+"c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\css\style_login.css", "CSS", 0, 15, 0, 6, 21
+"c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\css\style_sidebar.css", "CSS", 0, 44, 0, 8, 52
+"c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\index.php", "PHP", 2, 0, 0, 5, 7
+"c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\php\controller\Excluir_Equipe.php", "PHP", 33, 0, 0, 2, 35
+"c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\php\controller\UpdateEquipe.php", "PHP", 16, 0, 0, 0, 16
+"c:\xampp\htdocs\Eduardo_Leandro_GerenciamentoEscalasPF\php\controller\UpdateTurno.php", "PHP", 81, 0, 0, 3, 84
+"Total", "-", 215, 40, 0, 29, 284
